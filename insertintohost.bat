@@ -1,0 +1,2 @@
+python insertintohost.py
+pause

@@ -1,0 +1,2 @@
+python insertintosubscription.py
+pause

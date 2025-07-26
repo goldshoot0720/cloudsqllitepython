@@ -1,0 +1,2 @@
+python insertintocloud.py
+pause

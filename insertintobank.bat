@@ -1,0 +1,2 @@
+python insertintobank.py
+pause

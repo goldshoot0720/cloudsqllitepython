@@ -1,0 +1,2 @@
+python insertintoinventory.py
+pause

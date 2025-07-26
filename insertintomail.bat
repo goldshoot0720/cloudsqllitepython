@@ -1,0 +1,2 @@
+python insertintomail.py
+pause

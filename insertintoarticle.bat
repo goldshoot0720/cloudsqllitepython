@@ -1,0 +1,2 @@
+python insertintoarticle.py
+pause
